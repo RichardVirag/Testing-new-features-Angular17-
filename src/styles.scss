@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+$baseColor: #384952;
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  color: $baseColor;
+}
+
+.container {
+  width: 700px;
+  margin-left: 50px;
+}
